@@ -1,4 +1,4 @@
-class Element {
+export default class Element {
   private readonly type: string;
   private readonly attributes: {};
   private readonly classes: string[];
