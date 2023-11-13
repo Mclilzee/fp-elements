@@ -3,7 +3,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mclilzee/fp-elements.git"
+    "url": "https://github.com/Mclilzee/fp-elements.git"
   },
   "description": "Creating DOM elements Functional style with ease",
   "keywords": [
@@ -18,5 +18,13 @@
   "version": "1.0.0",
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Mclilzee/fp-elements/issues"
+  },
+  "homepage": "https://github.com/Mclilzee/fp-elements#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
