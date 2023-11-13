@@ -3,7 +3,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mclilzee/fp-elements.git"
+    "url": "git+https://github.com/Mclilzee/fp-elements.git"
   },
   "description": "Creating DOM elements Functional style with ease",
   "keywords": [
