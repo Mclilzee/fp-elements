@@ -1,15 +1,11 @@
-# fp-element
+# FP style Element creation
 
-To install dependencies:
+# Create elements
 
-```bash
-bun install
-```
+Use `Element.of(type)` to create your elements:
 
-To run:
+~~~javascript
+const imgElement = Element.of("img");
+~~~
 
-```bash
-bun run main.ts
-```
 
-This project was created using `bun init` in bun v1.0.1. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
