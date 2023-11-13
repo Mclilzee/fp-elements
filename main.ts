@@ -9,7 +9,7 @@ export default class Element {
     this.classes = classes;
   }
 
-  of(type: string) {
+  static of(type: string) {
     return new Element(type, {}, []);
   }
 
