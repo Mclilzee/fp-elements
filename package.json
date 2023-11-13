@@ -1,6 +1,10 @@
 {
   "author": "Mclilzee",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mclilzee/fp-element.git"
+  },
   "keywords": [
     "component",
     "document",
