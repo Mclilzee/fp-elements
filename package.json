@@ -1,7 +1,15 @@
 {
+  "author": "Mclilzee",
+  "license": "MIT",
+  "keywords": [
+    "component",
+    "document",
+    "elements"
+  ],
   "name": "fp-element",
   "module": "main.ts",
   "type": "module",
+  "version": "0.2",
   "devDependencies": {
     "bun-types": "latest"
   },
