@@ -10,7 +10,7 @@
     "document",
     "elements"
   ],
-  "name": "fp-element",
+  "name": "fp-elements",
   "module": "main.ts",
   "type": "module",
   "version": "0.2",
